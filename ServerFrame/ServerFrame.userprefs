@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Server\Server.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server\middle\Room\Room.cs">
+    <Files>
+      <File FileName="Server\middle\Room\Room.cs" Line="1" Column="1" />
+      <File FileName="Server\middle\Connection\Conn.cs" Line="1" Column="1" />
+      <File FileName="Server\middle\Player\Player.cs" Line="1" Column="1" />
+      <File FileName="Server\middle\Room\RoomMgr.cs" Line="1" Column="1" />
+      <File FileName="Server\logic\HandleRoomMsg.cs" Line="1" Column="1" />
+      <File FileName="Server\logic\HandlePlayerMsg.cs" Line="1" Column="1" />
+      <File FileName="Server\logic\PlayerTempData.cs" Line="1" Column="1" />
+      <File FileName="Server\logic\HandlePlayerEvent.cs" Line="1" Column="1" />
+      <File FileName="Server\bottom\DataMgr.cs" Line="1" Column="1" />
+      <File FileName="Server\bottom\ServNet.cs" Line="1" Column="1" />
+      <File FileName="Server\bottom\protocol\ProtocolBase.cs" Line="1" Column="1" />
+      <File FileName="Server\bottom\protocol\ProtocolBytes.cs" Line="1" Column="1" />
+      <File FileName="Server\bottom\protocol\ProtocolStr.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

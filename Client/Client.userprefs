@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\core\Net\NetMgr.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Sample\Panel\LobbyPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Net\Connection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sample\Panel\LoginPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Net\NetMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Panel\PanelMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Net\MsgDistribution.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sample\Root.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Panel\PanelBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sample\Panel\RegisterPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sample\Panel\TipPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sample\Panel\RoomPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Net\Protocol\ProtocolBytes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Net\Protocol\ProtocolStr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\Net\Protocol\ProtocolBase.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
